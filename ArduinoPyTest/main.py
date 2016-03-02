@@ -1,4 +1,5 @@
-import pyserial
+import serial
+import ArduinoUtil.message
 
 def main():
     pass
