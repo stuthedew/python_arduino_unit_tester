@@ -1,4 +1,4 @@
-
+import pyserial
 
 def main():
     pass
